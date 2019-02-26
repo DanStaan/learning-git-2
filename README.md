@@ -1,1 +1,1 @@
-# learning-git-2
+https://danstaan.github.io/learning-git-2/
