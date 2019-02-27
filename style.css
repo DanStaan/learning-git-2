@@ -4,17 +4,17 @@ body {
     background-color: #66CCFF;
     margin: 0;
 }
-.container{
+.container {
     text-decoration-line: underline
 }
 
-.content{
+.content {
     max-width: 500px;
     margin: 0 auto;
     background-color: rgb(152, 174, 194);
     padding: 20px;
 }
-h1{
+h1 {
     text-align: center;
     
     color: white;
@@ -22,13 +22,13 @@ h1{
     background-color: #5C4033;
     margin: 0;
 }
-h2{
+h2 {
     text-align: center;
     padding: 30px 0;
     background-color: white;
     color: coral;
 }
-p{
+p {
     text-align: center;
      
 }
